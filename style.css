@@ -1,0 +1,16 @@
+.sombra{
+    text-shadow: 3px 3px 3px #000;
+}
+
+.bg-img{
+    background-image: url(../img/ba1.jpg);
+    height: 100vh;
+}
+
+.card{
+    width: 20rem;
+}
+
+.footer{
+    background-image: linear-gradient(to right, #004080, #0066cc);
+}
