@@ -3,11 +3,7 @@
 }
 
 .bg-img{
-<<<<<<< HEAD
-    background-image: url(img/ba1.jpg);
-=======
     background-image: url(/cac-integrador-bs/img/ba1.jpg);
->>>>>>> 96397fe15f4c26380d48a6e70306511f8ce9adc5
     height: 100vh;
 }
 
